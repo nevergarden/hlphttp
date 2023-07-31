@@ -1,0 +1,10 @@
+{
+	"name": "hlpicohttp",
+	"url": "",
+	"license": "MIT",
+	"contributors": ["nevergarden"],
+	"description": "picohttpparser for Haxe/HL.",
+	"version": "1.0.0",
+	"releasenote": "",
+	"dependencies": {}
+}
